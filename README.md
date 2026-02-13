@@ -20,4 +20,4 @@ O arquivo da planilha está disponível neste repositório para download.
 
 ---
 
-Projeto desenvolvido para prática de modelagem financeira em Excel.
+Projeto desenvolvido em aula do curso
